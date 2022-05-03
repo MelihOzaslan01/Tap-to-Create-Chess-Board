@@ -1,0 +1,22 @@
+C:\Users\user\OneDrive\Masaüstü\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe.config
+C:\Users\user\OneDrive\Masaüstü\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe
+C:\Users\user\OneDrive\Masaüstü\ChessBoard\ChessBoard\bin\Debug\ChessBoard.pdb
+C:\Users\user\OneDrive\Masaüstü\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Masaüstü\ChessBoard\ChessBoard\obj\Debug\ChessBoard.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\ChessBoard\ChessBoard\obj\Debug\ChessBoard.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\ChessBoard\ChessBoard\obj\Debug\ChessBoard.exe
+C:\Users\user\OneDrive\Masaüstü\ChessBoard\ChessBoard\obj\Debug\ChessBoard.pdb
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\Chess Board\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe.config
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\Chess Board\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\Chess Board\ChessBoard\ChessBoard\bin\Debug\ChessBoard.pdb
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\Chess Board\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\Chess Board\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\Chess Board\ChessBoard\ChessBoard\obj\Debug\ChessBoard.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\Chess Board\ChessBoard\ChessBoard\obj\Debug\ChessBoard.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\Chess Board\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\Chess Board\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\Chess Board\ChessBoard\ChessBoard\obj\Debug\ChessBoard.exe
+C:\Users\user\OneDrive\Masaüstü\Back-End Bootcamp\Chess Board\ChessBoard\ChessBoard\obj\Debug\ChessBoard.pdb
